@@ -4,11 +4,6 @@ title: About
 permalink: /about/
 feature_image: feature-book
 ---
+I'm Cathryn Stenson - a human living in Seattle*. I spend my time as a software engineer, as a writer, as an artist, as a cities advocate, as a climate crisis awareness-raiser, and just generally as an enby trans lesbian living in the PNW. In a career what I look for is the ability to empower people - to give more people more tools to do better things more easily. I'm currently @tableau - everyone's favorite Seattle-based data visualization company.
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
-
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eius voluptatum tenetur explicabo, vel, praesentium corrupti repudiandae veniam totam reprehenderit, temporibus delectus possimus provident sint rem ex maiores ratione sunt deserunt.
+> \* = I'd like to acknowledge that Seattle - and my home - are on the unceded ancestral lands of the Duwamish people. A people that are still here, continuing to honor and bring light to their ancient heritage. If you live in Seattle, consider paying rent to the Duwamish Tribe - please, read more at [Real Rent Duwamish](https://www.realrentduwamish.org). 
