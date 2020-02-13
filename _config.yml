@@ -1,19 +1,6 @@
-# Site settings
-title: cathryn stenson
-email: cathryn.stenson@gmail.com
-description: > # Writer Theme is a responsive template
- seattle-based human
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
-enable_retina: false
-permalink: :title
-nav_list:
-  Home : ['Home', '/', 'fa-home']
-  About : ['About', '/about', 'fa-anchor']
-single_footer: '<p><a href="/">latest posts</a></p>'
-footer_links:
-    About: ['About', '/about']
-
-
-# Build settings
-# markdown: kramdown
+title: Minimal theme
+logo: /assets/img/logo.png
+description: Minimal is a theme for GitHub Pages.
+show_downloads: true
+google_analytics:
+theme: jekyll-theme-minimal
